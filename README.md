@@ -7,5 +7,5 @@ Feel free to clone this repo as a quick way to get up and running with an Univer
 
 Simply clone the repo, run `npm install` in the project directory, then `npm run start`
 
-I also created a Docker image containing this sample app
-https://hub.docker.com/r/sigerm/angularcliuni/
+I also created a Docker image containing this sample app:
+ https://hub.docker.com/r/sigerm/angularcliuni/
